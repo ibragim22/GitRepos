@@ -7,6 +7,8 @@ public class GoodEvening {
 		System.out.println("Hello from the other side");
 		int = 5;
 		int = 4;
-		
+		System.out.println("Hello from the other side");
+		int = 5;
+		int = 4;
 	}
 }
